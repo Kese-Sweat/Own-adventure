@@ -10,20 +10,24 @@ alert   ('I WONT JUDGE YOU BUT YOUR WROOOOONG')}
     
 alert('Lets test your IQ one more time')
 var Questiontwo=prompt('It looks green, it opens red. what you eat is red, but what you spit out is black. what is it?')
-var gameover=true
+
 if(Questiontwo=='Watermelon')
 {
    alert('IM PROUD OF YOU')
 }
-else{
-alert('WHY DIDNT YOU JUST USE GOOGLE! GAME OVER FOR YOU')}
-gameover=false
+else
+alert('WHY DIDNT YOU JUST USE GOOGLE! GAME OVER FOR YOU')
+
+
+
 alert('Last question')
 
-if(gameover==false){
+
+
 var Questionthree=prompt('what has to be broken before you can use it')
+
 if(Questionthree=='EGG')
 alert('HEY YOU WON! Come enjoy a free meal at the one and only, fast casual restaurant, YOURWAY!')
 
 else
-alert('THATS NOT CORRECT. YOU DIDNT LOSE BUT YOU DIDNT WIN!')}
+alert('THATS NOT CORRECT. YOU DIDNT LOSE BUT YOU DIDNT WIN!')
